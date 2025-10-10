@@ -6,3 +6,7 @@
 /tmp/**
 /logs/*
 !logs/.gitkeep
+
+
+ 
+ secrets.txt
